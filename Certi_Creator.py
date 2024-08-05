@@ -4,7 +4,7 @@ from PIL import ImageDraw
 import qrcode
 
 def main():
-    print("----- ICCS's Certificate Creator -----")
+    print("----- GSM's Certificate Creator -----")
 
     # Accept participant's name
     name = input("Enter Participant's Name:\n")
